@@ -292,6 +292,7 @@
 				DEVELOPMENT_TEAM = HUSSB9QG5P;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = MatchingGame/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Matching Game";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -320,6 +321,7 @@
 				DEVELOPMENT_TEAM = HUSSB9QG5P;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = MatchingGame/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Matching Game";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
